@@ -20,11 +20,6 @@ var addressPoints = [
     3.8595132
   ],
   [
-    "Deep learning for fetal brain extraction in fetal MRI<br />Workshop on Machine Learning in Radiology'19 at Lausanne University Hospital (CHUV); Lausanne, Switzerland",
-    46.5218269,
-    6.6327025
-  ],
-  [
     "Developmental thalamic functional connectivity and its potential implications for early neonatal consciousness<br />Infant Consciousness Conference'25; New York, USA",
     40.7127281,
     -74.0060152
@@ -33,6 +28,11 @@ var addressPoints = [
     "Ground-truth effects in learning-based fiber orientation distribution estimation in neonatal brains<br />CDMRI'24; Marrakesh, Morocco",
     31.6258257,
     -7.9891608
+  ],
+  [
+    "Deep learning for fetal brain extraction in fetal MRI<br />Workshop on Machine Learning in Radiology'19 at Lausanne University Hospital (CHUV); Lausanne, Switzerland",
+    46.5218269,
+    6.6327025
   ],
   [
     "Deep learning for fiber distribution estimation in developing brains: model, ground-truth & domain-shift impacts<br />University Children\u2019s Hospital Z\u00fcrich and University of Z\u00fcrich; Virtual",
