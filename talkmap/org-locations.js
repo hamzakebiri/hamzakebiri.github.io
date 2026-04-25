@@ -10,6 +10,11 @@ var addressPoints = [
     23.7348324
   ],
   [
+    "Medical Image Analysis & AI: Shedding light on developing human brains<br />Math & Maroc Association; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
     "Developmental thalamic functional connectivity and its potential implications for early neonatal consciousness<br />Infant Consciousness Conference'25; New York, USA",
     40.7127281,
     -74.0060152
