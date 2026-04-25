@@ -5,6 +5,11 @@ var addressPoints = [
     -79.5341802
   ],
   [
+    "Cross-Age and Cross-Site Domain Shift Impacts on Deep Learning-Based White Matter Fiber Estimation in Newborn and Baby Brains<br />ISBI'24; Athens, Greece",
+    37.9755648,
+    23.7348324
+  ],
+  [
     "Developmental thalamic functional connectivity and its potential implications for early neonatal consciousness<br />Infant Consciousness Conference'25; New York, USA",
     40.7127281,
     -74.0060152
