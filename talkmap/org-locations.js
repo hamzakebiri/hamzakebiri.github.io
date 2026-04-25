@@ -10,13 +10,13 @@ var addressPoints = [
     -0.1277653
   ],
   [
+    "Developmental thalamic functional connectivity and its potential implications for early neonatal consciousness<br />Infant Consciousness Conference'25; New York, USA",
+    40.7127281,
+    -74.0060152
+  ],
+  [
     "Deep learning for fiber distribution estimation in developing brains: model, ground-truth & domain-shift impacts<br />University Children\u2019s Hospital Z\u00fcrich and University of Z\u00fcrich; Virtual",
     44.4939936,
     11.3576917
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
   ]
 ];
