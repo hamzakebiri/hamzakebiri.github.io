@@ -20,6 +20,11 @@ var addressPoints = [
     3.8595132
   ],
   [
+    "Deep learning for fetal brain extraction in fetal MRI<br />Workshop on Machine Learning in Radiology'19 at Lausanne University Hospital (CHUV); Lausanne, Switzerland",
+    46.5218269,
+    6.6327025
+  ],
+  [
     "Developmental thalamic functional connectivity and its potential implications for early neonatal consciousness<br />Infant Consciousness Conference'25; New York, USA",
     40.7127281,
     -74.0060152
