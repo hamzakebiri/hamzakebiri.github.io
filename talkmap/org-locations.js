@@ -5,14 +5,14 @@ var addressPoints = [
     -79.5341802
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
     "Developmental thalamic functional connectivity and its potential implications for early neonatal consciousness<br />Infant Consciousness Conference'25; New York, USA",
     40.7127281,
     -74.0060152
+  ],
+  [
+    "Ground-truth effects in learning-based fiber orientation distribution estimation in neonatal brains<br />CDMRI'24; Marrakesh, Morocco",
+    31.6258257,
+    -7.9891608
   ],
   [
     "Deep learning for fiber distribution estimation in developing brains: model, ground-truth & domain-shift impacts<br />University Children\u2019s Hospital Z\u00fcrich and University of Z\u00fcrich; Virtual",
