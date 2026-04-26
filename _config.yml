@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Hamza Kebiri, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Geneva"
+  bio              : "Postdoc at CIBM. Working on machine learning in neuroimaging, diffusion and functional MRI and the neuroscience of developing brains.
+  location         : "Geneva, CH"
   employer         : "EPFL & University of Geneva"
   uri              : # URL
   email            : "hamza.kebiri@alumni.epfl.ch" 
