@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-deep-learning-microstructure
 date: 2024-01-01
-venue: "Medical Image Analysis"
+venue: ""
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S1361841524001117"
 citation: "<b>Kebiri, H.</b>, Gholipour, A., Vasung, L., Calixto, C., Krsnik, Z., Karimi, D., Bach Cuadra, M. (2024). \"Deep learning microstructure estimation of developing brains from diffusion MRI: a newborn and fetal study.\" <i>Medical Image Analysis</i>."
 ---
