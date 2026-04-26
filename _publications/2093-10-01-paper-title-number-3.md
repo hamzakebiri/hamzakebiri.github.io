@@ -1,5 +1,5 @@
 ---
-title: "Data-driven pediatric thalamic parcellation reveals pedagogy-selective maturation of attention circuits"
+title: "Data-driven pediatric thalamic parcellation reveals pedagogy-selective maturation of attention circuits (submitted)"
 collection: publications
 category: manuscripts
 permalink: /publication/thalamic-parcellation
