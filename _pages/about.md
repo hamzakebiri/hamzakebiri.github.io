@@ -9,7 +9,7 @@ redirect_from:
 
 Research interest
 ------ 
-I am interested in uncovering the structural and functional dynamics of the human brain development using classical and AI algorithms. My research lies at the intersection of medical imaging (mainly magnetic resonance imaging - MRI), machine learning, and neuroscience – with a strong focus on developing brains.
+I am interested in uncovering the structural and functional patterns of the human brain development using classical and AI algorithms. My research lies at the intersection of medical imaging (mainly magnetic resonance imaging - MRI), machine learning, and neuroscience – with a strong focus on developing brains.
 
 Current position
 ------
