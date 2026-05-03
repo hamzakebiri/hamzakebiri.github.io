@@ -13,7 +13,7 @@ I am interested in uncovering the structural and functional patterns of the huma
 
 Current position
 ------
-I am a [CIBM](https://cibm.ch/) postdoctoral researcher - working in [Campus Biotech](https://campusbiotech.ch/) in Geneva with [MIP:Lab](https://miplab.epfl.ch/) (EPFL & UNIGE – Prof. [Dimitri Van De Ville](https://miplab.epfl.ch/people/vandeville)).
+I am a [CIBM](https://cibm.ch/) postdoctoral researcher - working in [Campus Biotech](https://campusbiotech.ch/) in Geneva with [MIP:Lab](https://miplab.epfl.ch/) (EPFL & UNIGE – Prof. [Dimitri Van De Ville](https://en.wikipedia.org/wiki/Dimitri_Van_De_Ville)).
 
 Current research
 ------
