@@ -34,6 +34,10 @@ Distinctions
 - SNSF PhD Mobility Grant to Harvard Medical School (2022)
 - Best educational brain-inspired solution, Donders Institute Hackathon (2016)
 
+Some personal interests
+------
+I have a strong interest in discussions around consciousness, meditation (three past 10-days mindfulness Vipassana retreats), psychology, and the « mind » topics in general.
+Football is a long-standing passion of mine, which I have played for many years and continue to play in amateur teams wherever I have lived (Morocco, Switzerland, Germany, and the USA).
 
 <!--
 Big title
