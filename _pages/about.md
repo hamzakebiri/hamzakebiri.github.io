@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hamza Kebiri | Postdoctoral Researcher"
 author_profile: true
 redirect_from: 
   - /about/
