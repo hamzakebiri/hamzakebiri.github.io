@@ -39,7 +39,9 @@ Distinctions
 Some personal interests
 ------
 I have a strong interest in discussions around consciousness, meditation (three past 10-days mindfulness [Vipassana](https://www.dhamma.org/) retreats), psychology, and the « mind » topics in general.
-Football is a long-standing passion of mine, which I have played for many years (and continue to play) in amateur teams wherever I have lived (Morocco, Switzerland, Germany, and the USA).
+Football is a long-standing passion of mine, which I have played for many years (and continue to play) in amateur teams wherever I have lived (Morocco, Switzerland, Germany, and the USA). I also enjoy traveling and experiencing nature in its more raw and impressive forms.
+
+![](/images/merged_pics.png)
 
 <!--
 Big title
