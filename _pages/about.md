@@ -34,7 +34,7 @@ I have received a bachelor’s and master’s degree in Communication Systems fr
 Distinctions
 ------
 - Young Investigator Award at the Fetal Infant Toddler Neuroimaging Group conference (2026)
-- Best PhD Thesis Award, Faculty of Biology & Medicine, UNIL (2023)
+- Best PhD Thesis Award, Faculty of Biology & Medicine, UNIL (2024)
 - SNSF PhD Mobility Grant to Harvard Medical School (2022)
 - Best educational brain-inspired solution, Donders Institute Hackathon (2016)
 
