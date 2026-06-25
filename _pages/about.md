@@ -33,7 +33,7 @@ I have received a bachelor’s and master’s degree in Communication Systems fr
 
 Distinctions
 ------
-- SNSF Postdoc Mobility Grant to Imperial College London and Harvard Medical School (2026)
+- SNSF Postdoc Mobility Grant to Imperial College London & Harvard Medical School (2026)
 - Young Investigator Award at the Fetal Infant Toddler Neuroimaging Group conference (2026)
 - Best PhD Thesis Award, Faculty of Biology & Medicine, UNIL (2024)
 - SNSF PhD Mobility Grant to Harvard Medical School (2022)
