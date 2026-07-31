@@ -3,7 +3,7 @@ title: "Evaluating synthetic data generation for domain generalization in fetal 
 collection: publications
 category: manuscripts
 permalink: /publication/topological-loss-fetal-mri
-date: 2091-01-01
+date: 2092-01-01
 venue: "Machine Learning for Biomedical Imaging"
 paperurl: "https://www.melba-journal.org/papers/2026:023.html"
 citation: "Zalevskyi, V., Sanchez, T. , ... , Hutter, J., <b>Kebiri, H.</b>, Bach Cuadra, M. (2022). \"Multi-dimensional topological loss for cortical plate segmentation in fetal brain MRI.\" <i>Machine Learning for Biomedical Imaging</i>."
