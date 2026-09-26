@@ -1,5 +1,5 @@
 ---
-title: "Learning environments are associated with developmental trajectories of thalamocortical attention circuits in childhood (under review)"
+title: "Learning environments are associated with developmental trajectories of thalamocortical attention circuits in childhood"
 collection: publications
 category: manuscripts
 permalink: /publication/thalamic-parcellation
